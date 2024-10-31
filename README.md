@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭I'm an automation control and robotics engineering student with a passion for using C++<br>🤝I'm open to collaborating on a wide variety of projects and excited to work with others<br>🌱 I’m currently learning Python<br>⚡  I'm always seeking out new and exciting projects that push me to grow and improve my skills
 
 
 ## 🌐 Socials:
